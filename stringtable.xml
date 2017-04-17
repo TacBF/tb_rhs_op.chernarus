@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_OP_Grey_Storm">
+
+	<Key ID="STR_TB_missionTitle_TB_OP_Grey_Storm">
+		<Original>OP Gremlin</Original>
+		<English>OP Gremlin</English>
+		<German>OP Gremlin</German>
+		<Italian>OP Gremlin</Italian>
+		<Spanish>OP Gremlin</Spanish>
+		<French>OP Gremlin</French>
+		<Czech>OP Gremlin</Czech>
+		<Russian>OP Gremlin</Russian>
+		<Polish>OP Gremlin</Polish>
+		<Hungarian>OP Gremlin</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_OP_Grey_Storm">
+		<Original>TacBF A&amp;S[T-10]: OP Gremlin</Original>
+		<English>TacBF A&amp;S[T-10]: OP Gremlin</English>
+		<German>TacBF A&amp;S[T-10]: OP Gremlin</German>
+		<Italian>TacBF A&amp;S[T-10]: OP Gremlin</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: OP Gremlin</Spanish>
+		<French>TacBF A&amp;S[T-10]: OP Gremlin</French>
+		<Czech>TacBF A&amp;S[T-10]: OP Gremlin</Czech>
+		<Russian>TacBF A&amp;S[T-10]: OP Gremlin</Russian>
+		<Polish>TacBF A&amp;S[T-10]: OP Gremlin</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: OP Gremlin</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
